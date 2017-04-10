@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: fehm-jax-rs-project
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Henrik
+Implementation-Vendor-Id: se.fehm
+Build-Jdk: 1.8.0_102
+Implementation-URL: http://projects.spring.io/spring-boot/fehm-jax-rs-
+ project/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
